@@ -1,0 +1,17 @@
+node_modules
+.env
+.env.*
+logs/
+*.log
+npm-debug.log*
+pids/
+*.pid
+*.seed
+coverage/
+tmp/
+.cache/
+uploads/
+storage/
+dist/
+build/
+sequelize-cli/.sequelizerc
